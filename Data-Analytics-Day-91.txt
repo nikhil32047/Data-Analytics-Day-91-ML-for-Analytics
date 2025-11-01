@@ -1,0 +1,112 @@
+ Machine Learning for Data Analytics
+
+🔹 Lesson 1: Introduction to Machine Learning for Analytics
+==============================================================
+Summary:
+Machine Learning (ML) enables predictive insights instead of just descriptive analytics.
+Descriptive: What happened?
+Diagnostic: Why did it happen?
+Predictive: What will happen next?
+Prescriptive: What should we do about it?
+
+Example:
+E-commerce companies use ML to predict which customers are most likely to repurchase within 30 days.
+
+Video: Intro to Machine Learning for Data Analysts (10 mins)
+
+
+🔹 Lesson 2: Predictive Modeling Concepts
+==============================================
+Summary:
+Predictive models use historical data to forecast future outcomes.
+Split data into training and testing sets
+Train models like Linear Regression, Decision Trees, or Random Forests
+Evaluate with metrics such as RMSE, R², or Accuracy
+
+Example:
+A retail company predicts monthly sales using past 12 months’ data (Regression).
+
+Video: Predictive Modeling Explained for Beginners (15 mins)
+
+
+🔹 Lesson 3: Regression Analysis (Linear & Multiple)
+=======================================================
+Summary:
+Regression identifies the relationship between variables.
+Linear regression: Predict continuous values
+Multiple regression: Uses several predictors
+
+Formula:
+
+𝑦
+=
+𝑎
++
+𝑏
+1
+𝑥
+1
++
+𝑏
+2
+𝑥
+2
++
+⋯
++
+𝑒
+y=a+b
+1
+	​
+
+x
+1
+	​
+
++b
+2
+	​
+
+x
+2
+	​
+
++⋯+e
+
+Example:
+Predicting house price based on size, location, and number of rooms.
+
+Video: Linear Regression in Python (Scikit-Learn) – 12 mins
+
+
+🔹 Lesson 4: Classification Models for Business Decisions
+============================================================
+Summary:
+Classification predicts categories, not numbers.
+Common models: Logistic Regression, Decision Tree, Random Forest, SVM.
+
+Output examples: “Yes/No”, “Churn/Stay”, “Approved/Rejected”.
+
+Example:
+Bank predicts if a loan applicant is likely to default or repay using Logistic Regression.
+
+Video: Classification Models for Beginners (15 mins)
+
+
+🔹 Lesson 5: Case Study – Customer Churn Prediction
+======================================================
+Summary:
+Steps:
+--------
+Collect customer and churn data
+Clean and encode variables
+Build and train a Logistic Regression model
+Evaluate with accuracy and ROC-AUC metrics
+Deploy insights to reduce churn
+
+Example:
+A telecom company predicts which users might leave and launches targeted retention campaigns, reducing churn by 20 %.
+
+Video: Customer Churn Prediction Case Study (20 mins)
+
+
